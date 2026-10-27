@@ -13,7 +13,7 @@
 
 ## 2. Стек (не менять без CR)
 
-- **Backend:** C# / .NET 8, ASP.NET Core Web API, EF Core, Npgsql
+- **Backend:** C# / .NET 10, ASP.NET Core Web API, EF Core, Npgsql
 - **Frontend:** React 18 + TypeScript, Vite, React Router, axios
 - **БД:** PostgreSQL 16
 - **Auth:** JWT (Bearer) или cookie — решение в `docs/02-design-doc.md`; пароли через `BCrypt.Net`
@@ -76,7 +76,7 @@ cd frontend && npm install && npm run dev
 # Тесты backend (опционально)
 cd backend && dotnet test
 5. Конвенции C#
-.NET 8, nullable включён, async/await везде, где I/O.
+.NET 10, nullable включён, async/await везде, где I/O.
 
 Контроллеры тонкие, логика — в Services/.
 
