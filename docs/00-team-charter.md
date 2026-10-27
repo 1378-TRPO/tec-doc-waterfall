@@ -9,7 +9,7 @@
 | # | Человек            | Роли | Артефакты (владелец) | FR / зона |
 |---|--------------------|---|---|---|
 | 1 | Виноградов Андрей  | PM / лид | Team Charter, SRS, Change Log, Demo Script, Report | - процесс |
-| 2 | Кошуба Данил       | Backend | схема БД, `Models/`, `Data/`, `Services/`, `AuthController`, `EventsController`, `NotificationsController` | FR-1…FR-13 (роуты) |
+| 2 | Кашуба Данил       | Backend | схема БД, `Models/`, `Data/`, `Services/`, `AuthController`, `EventsController`, `NotificationsController` | FR-1…FR-13 (роуты) |
 | 3 | Угрюмов Михаил     | Frontend | React-страницы, FullCalendar, формы, карточка, колокольчик | UI для FR-2…FR-11 |
 | 4 | Таланков Владислав | QA + документация | Test Plan, Test Report, README, seed-данные | тесты на FR-1…FR-13 |
 | 5 | Шлом Илья          | Design Doc owner + ревью + помощь | Design Doc, ревью PR, помощь C и D, второй голос на демо | дизайн FR-3…FR-11 |
